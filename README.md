@@ -1,2 +1,2 @@
 # MP-ltts
-Mini project for Step-In
+Mini project for Step-In LTTS
