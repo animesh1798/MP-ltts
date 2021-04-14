@@ -48,7 +48,6 @@ int main(){
         exit(0);
     }
     else{
-        label:
         printf("\nCredentials Matched!!! ");
     }
     
