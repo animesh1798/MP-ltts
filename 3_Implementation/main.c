@@ -111,8 +111,11 @@ int main(){
                     printf("\nSearch Failed ...");
                 else if (fback == 0)
                     printf("\nRecord with the given id not found ...");
-                else 
+                else {
+                    printf("continue? (y) ");
+                    while(getchar() != 'y');
                     printf("\nSearch Successfull ....");
+                }
                 fclose(file);
                 break;
             }
@@ -155,7 +158,8 @@ int main(){
             case DISPLAY_ALL :
             {
                 file = fopen("mydb.dat", "rb+");
-                displayAll(file);
+                int fback = displayAll(file);
+                while(getchar() != 'c');
                 fclose(file);
                 break;
             }

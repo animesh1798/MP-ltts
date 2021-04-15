@@ -1,2 +1,4 @@
-# MP-ltts
-Mini project for Step-In LTTS
+# Project Information
+
+* Add a brief discription about the project
+* Add the information about extra folders or files added

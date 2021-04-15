@@ -96,7 +96,7 @@ int modify(FILE* filename, int id);
  * 
  * @param filename name of the database
  */
-void displayAll(FILE* filename);
+int displayAll(FILE* filename);
 
 /**
  * @brief display one entry

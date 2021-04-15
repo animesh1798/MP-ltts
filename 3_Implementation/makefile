@@ -17,6 +17,7 @@ TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 # All include folders with header files
 INC	= -Iinc\
 -I/user/include/\
+-Iunity\
 
 #Library Inlcudes
 INCLUDE_LIBS = 
@@ -51,7 +52,7 @@ test:$(BUILD)
 
 # Remove all the built files, invoke by `make clean`
 clean:
-	rm -rf $(BUILD) $(DOCUMENTATION_OUTPUT) contacts.bin
+	rm -rf $(BUILD) $(DOCUMENTATION_OUTPUT)
 
 # Create new build folder if not present
 $(BUILD):

@@ -89,8 +89,6 @@ int search(FILE* filename, int id){
     while(fread(&temp, sizeof(entryFormat), 1, filename) == 1){
         if (temp.id == id){
             display(temp);
-            printf("continue? (y) ");
-            while(getchar() != 'y');
             return 1;
         }
     }
@@ -157,7 +155,7 @@ int modify(FILE* filename, int id){
     return flag;
 }
 
-void displayAll(FILE* filename){
+int displayAll(FILE* filename){
     entryFormat temp;
     int flag = 0;
     while(fread(&temp, sizeof(entryFormat), 1, filename)){
@@ -169,7 +167,7 @@ void displayAll(FILE* filename){
             printf("Empty file.. Enter 'c' to continue...");
         else    
             printf("Enter 'c' to continue ...");
-        while(getchar() != 'c');
+    return 1;
 }
 
 void display(entryFormat temp){
