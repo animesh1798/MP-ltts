@@ -42,16 +42,16 @@ The menu displays options to add, delete, modify, search and display.
 
 ## 4 W's and 1 H
 
-### WHO
-This will cater to all those who are beginners to database management and file handling
-### WHAT
-It's free and can be easily used by people of all ages
-### WHEN
-Database is a very imporatant tool in today's era and hence this will be welcomed at all times when someone wants to learn it.
-### WHERE
-Fields where records are being digitised and for teaching the beginners
-### HOW
-It will be used by everyone since simple to use.
+### WHO -
+   This will cater to all those who are beginners to database management and file handling
+### WHAT -
+   It's free and can be easily used by people of all ages
+### WHEN -
+   Database is a very imporatant tool in today's era and hence this will be welcomed at all times when someone wants to learn it.
+### WHERE -
+   Fields where records are being digitised and for teaching the beginners
+### HOW -
+   It will be used by everyone since simple to use.
 
 
 # Detail Requirements
