@@ -23,5 +23,5 @@
 |`5_Report`|Documentation of whole project|
 |`6_ImagesAndVideos`|Code Execution Images and Videos|
 
-# Issues
-* Not able to rectify valgrind errors
+# Pending Issues
+* Valgrind errors to be rectified
