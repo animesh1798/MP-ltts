@@ -38,7 +38,8 @@ The menu displays options to add, delete, modify, search and display.
 
 ## SWOT Analysis
 
-![Screenshot from 2021-04-16 14-22-00](https://user-images.githubusercontent.com/79442246/114999153-392b1900-9ebf-11eb-89e1-eb6157e2f7ee.png)
+![Drawing](https://user-images.githubusercontent.com/79442246/115001828-a8097180-9ec1-11eb-8723-1714e306fe8c.jpg)
+
 
 ## 4 W's and 1 H
 
