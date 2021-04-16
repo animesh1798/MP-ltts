@@ -1,5 +1,5 @@
 
-# STEP-IN Mini Project - Databse Management System
+# STEP-IN Mini Project - Database Management System
 
 | cppcheck | Valgrind | Unit Testing | C/C++ CI |
 | --- | --- | --- | --- |
