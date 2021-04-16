@@ -72,5 +72,5 @@ It will be used by everyone since simple to use.
 |LLR1|Menu should display when Credentials Match|Technical|1, 2|Implemented|
 |LLR2|Program should exit when credentials don't match|Technical|1, 3|Implemented|
 |LLR3|Action executed according to the input given|Technical|2, 3, 4|Implemented|
-|LLR4|Appropriate error messages at failure and success of operations|1, 2, 3, 4|Implemented|
+|LLR4|Appropriate error messages at failure and success of operations|Technical|1, 2, 3, 4|Implemented|
 
