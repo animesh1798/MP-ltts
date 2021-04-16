@@ -4,12 +4,12 @@
 
 * This is a demo Database Management System
 * Secured using login id and password
-Markup : * Allows operations such as
-              - Add data
-              - Delete data
-              - Modify
-              - Search
-              - Display All
+* Allows operations such as
+      - Add data
+      - Delete data
+      - Modify
+      - Search
+      - Display All
 * For demostration the data is stored in 'mydb.dat'
 * The default 'login id - 256000' and 'Password - 12345'
 
