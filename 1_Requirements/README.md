@@ -35,3 +35,23 @@ The menu displays options to add, delete, modify, search and display.
 3. **Modify -** Allows modification of a particular field of the entry by id.
 4. **Search -** For searching if an entry is present or not.
 5. **Display -** To display all the entries present in the database.
+
+## SWOT Analysis
+
+![Screenshot from 2021-04-16 14-22-00](https://user-images.githubusercontent.com/79442246/114999153-392b1900-9ebf-11eb-89e1-eb6157e2f7ee.png)
+
+## 4 W's and 1 H
+
+### WHO
+This will cater to all those who are beginners to database management and file handling
+### WHAT
+It's free and can be easily used by people of all ages
+### WHEN
+Database is a very imporatant tool in today's era and hence this will be welcomed at all times when someone wants to learn it.
+### WHERE
+Fields where records are being digitised and for teaching the beginners
+### HOW
+It will be used by everyone since simple to use.
+
+
+# Detail Requirements
