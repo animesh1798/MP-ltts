@@ -11,7 +11,7 @@
    - Search
    - Display All
 4. For demostration the data is stored in 'mydb.dat'
-5. The default 'login id - 256000' and 'Password - 12345'
+5. The default `login id - 256000` and `Password - 12345`
 
 ## Cost and Features
 
